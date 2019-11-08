@@ -10,9 +10,9 @@ public class Main8 {
 		int h = 1;
 		int x;
 		int y;
-		System.out.println("a = " + a);
-		System.out.println("b = " + b);
-		System.out.println("c = " + c);
+			System.out.println("a = " + a);
+			System.out.println("b = " + b);
+			System.out.println("c = " + c);
 		if (a > b) {
 			x = b;
 			for (x = 0; x <= a; x += h) {
